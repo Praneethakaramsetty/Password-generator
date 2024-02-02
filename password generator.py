@@ -5,7 +5,7 @@ lowercase_letters = uppercase_letters.lower()
 digits = "0123456789"
 special_characters="!@#$%^&*,./<>?;\_"
 
-upper, lower, nums,special = False, True, True, True
+upper, lower, nums,special = True, True, True, True
 
 all = ""
 
